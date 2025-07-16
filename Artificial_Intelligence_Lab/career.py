@@ -27,21 +27,8 @@ elif(ns1=="Robot" and ns2=="Programming"):
 	print("your ideal branch is Mechatronics engineering")
 elif(ns1=="Ai" and ns2=="Robot"):
 	print("your ideal branch is Robotics and Artificial intelligence")
-	
 else:
 	print("invalid input")
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
